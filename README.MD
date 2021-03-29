@@ -1,12 +1,17 @@
 #### I. Server Requirements
 PHP version 5.6.20 or greater, PHP 7 is highly recommended
+
 Web Server: Apache or Nginx
+
 Database: MySQL version 5.0. 15 or greater or any    version of MariaDB.
+
 (Optional) (Required for Multisite) Apache mod_rewrite module (for clean URIs known as Permalinks)
 all of the above can be replaced with Xampp (https://www.apachefriends.org/download.html)
 
 Disk Space: 1GB+
+
 RAM: 512MB+
+
 Processor: 1.0GHz+
 
 #### II. Install
