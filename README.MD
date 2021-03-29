@@ -53,6 +53,6 @@ Go to: http://your_url/admin/khoa/?menu=lop
 Go to: http://your_url/admin/?menu=them
 
 4. Manage subject points of a Student 
-- Go to: http://qlsv.great-site.net/admin/?menu=quanlysv
+- Go to: http://your_url/admin/?menu=quanlysv
 - Click: Mã Sinh Viên column 
 
